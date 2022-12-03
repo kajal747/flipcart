@@ -1,4 +1,4 @@
-let s="aman";
+let str="aman";
 
 function reverse(){
     let bag="";
@@ -12,3 +12,4 @@ if(str=rev_str){
   console.log("palindrome")
 }else{
   console.log("NA")
+}
